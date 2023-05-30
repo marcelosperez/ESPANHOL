@@ -1,8 +1,0 @@
-Corpo13
-
-ombro = el hombro
-nuca = la nuca
-braço = el brazo
-cotovelo = el codo
-costas = la espalda
-axila = la axila
